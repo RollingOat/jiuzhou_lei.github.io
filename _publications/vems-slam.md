@@ -2,8 +2,8 @@
 title: "VEMS-SLAM: Versatile Real-Time Metric-Semantic SLAM for Multi-Robot Navigation and Exploration"
 collection: publications
 permalink: /publication/vems-slam
-excerpt: 
-date: 
+excerpt: 'Submitted to Transaction on Robotics'
+date: Jan 2024
 venue: 
 paperurl: 
 citation: 
