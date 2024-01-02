@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Versatile Real-Time Metric-Semantic SLAM for Multi-Robot Navigation and Exploration"
+excerpt: "Developed a versatile metric-semantic SLAM framework for autonomous UAVs and UGVs. <br/><img src='/images/title_pic.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+
+- Developed a versatile metric-semantic SLAM framework for autonomous UAVs and UGVs to address challenges in collaborative SLAM for heterogeneous robots with varied perception modalities, large pose graph computational burdens, and semantic environment understanding by using sparse object-level features with semantic information to enhance localization and mapping.
+- Introduced a loop closure algorithm considering global object layout information for drift correction and map merging
+between robots
+- Integrated the framework into the autonomy stack of ground robots, and conducted extensive experiments, including
+using a quadrotor for outdoor mapping and ground robots for exploration of a building.
+
+[Video is available here]()
