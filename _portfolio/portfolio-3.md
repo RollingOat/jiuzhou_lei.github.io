@@ -1,7 +1,11 @@
 ---
 title: "LiDAR-only Autonomous flight for quadrotor"
-excerpt: "Autonomous Flight <br/><img src='/images/500x300.png'>"
+excerpt: "Quadrotor Autonomous Flight using 3D LiDAR <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+Developed LiDAR-only autonomous flight feature for quadrotor autonomy system, enhancing capabilities beyond
+stereo cameras. Integrated lidar-inertial odometry for operation in diverse lighting conditions, conducted thorough
+parameter tuning, and executed rigorous flight tests to ensure stable and reliable performance.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Video is available here]()
+
