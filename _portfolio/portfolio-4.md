@@ -10,5 +10,5 @@ algorithm in Python to successfully navigate the quadrotor and avoid obstacles i
 the robot.
 - Built and tested a filter-based visual-inertial odometry (VIO) system that integrates information from an IMU and
 a stereo camera, and demonstrated its performance in simulation
-
+![image](https://github.com/RollingOat/jiuzhou_lei.github.io/assets/97129990/66cb09ce-98e6-4fea-85ed-9032614007a1)
 [Github Code](https://github.com/RollingOat/control-path-planning-trajectory-optimization-of-a-quadrotor)
