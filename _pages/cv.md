@@ -19,4 +19,4 @@ Skills
 * Programming: Python, C++, C
 * Tools/Frameworks: GitHub, Git, ROS, PyTorch, CMake, Linux, OpenCV
 
-[My full CV is available here]()
+[My full CV is available here](https://drive.google.com/file/d/1ilEOdzyl7Thg5yJsRh2zejdjUBDDrdBo/view?usp=sharing)
