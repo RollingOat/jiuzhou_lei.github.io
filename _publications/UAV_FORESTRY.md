@@ -6,7 +6,8 @@ excerpt:
 date: Dec, 2023
 venue: 'Journal: Mechanical System and Signal Processing'
 paperurl: 'http://dx.doi.org/10.2139/ssrn.4518294'
-citation: 
+citation: 'Ankit Prabhu*, Xu Liu*, Igor Spasojevic, Yuwei Wu, Yifei Shao, Dexter Ong, Jiuzhou Lei, Corey Green, Pratik
+Chaudhari, Vijay Kumar'
 ---
 <img src='forest_portfolio-min.png' width="600" height="300">
 
