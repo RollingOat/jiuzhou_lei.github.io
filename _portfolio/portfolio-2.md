@@ -10,3 +10,5 @@ collection: portfolio
 forest growth. Addressed challenges in accurate tree position measurement and diameter profile maintenance using
 3D LiDAR data
 - Implemented centralized factor graph optimization for trajectory estimation and mapping for a multi-robot system
+
+[Demo video is available here](https://drive.google.com/file/d/1BzFMDoIDILkZsAfjee1GTnMgdBeD1lxX/view?usp=drive_link)
