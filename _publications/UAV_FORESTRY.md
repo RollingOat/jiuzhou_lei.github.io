@@ -8,6 +8,7 @@ venue: 'Journal: Mechanical System and Signal Processing'
 paperurl: 'http://dx.doi.org/10.2139/ssrn.4518294'
 citation: 
 ---
+<img src='/images/forest_portfolio.png' width="600" height="300">
 **Abstract:** To properly monitor the growth of forests and
 administer effective methods for their cultivation, forestry re-
 searchers require access to quantitative metrics such as diameter
