@@ -1,8 +1,9 @@
 ---
 title: "Metric-Semantic Mapping and Diameter Estimation in Forest with Aerial Autonomy "
-excerpt: "<br/><img src='/images/forest_portfolio.png'>"
+excerpt: 
 collection: portfolio
 ---
+<br/><img src='/images/forest_portfolio.png'>
 
 - Involved in a forest mapping project, developed metric-semantic mapping algorithm for autonomous UAVs to monitor
 forest growth. Addressed challenges in accurate tree position measurement and diameter profile maintenance using
