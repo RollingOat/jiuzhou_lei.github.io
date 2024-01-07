@@ -9,6 +9,5 @@ between robots
 - Integrated the framework into the autonomy stack of ground robots, and conducted extensive experiments, including
 using a quadrotor for outdoor mapping and ground robots for exploration of a building.
 
-![image](https://github.com/RollingOat/jiuzhou_lei.github.io/assets/97129990/88d9f9e8-7442-458f-b993-105287eb9711)
-
-[Video is available here]()
+<img src='/images/500x300.png'>
+[Video is available here](https://drive.google.com/file/d/13pq96vJ-9ApS_JO_fIS_C1X7AZ9kL_yV/view?usp=drive_link)
