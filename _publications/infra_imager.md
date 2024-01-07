@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/infra_imager
 excerpt: 
 date: June 2020
-venue: 'Research and Exploration in Laboratory,'
+venue: 'Research and Exploration in Laboratory'
 paperurl: 
 citation:
 ---
