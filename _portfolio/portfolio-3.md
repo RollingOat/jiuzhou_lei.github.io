@@ -1,6 +1,6 @@
 ---
 title: "LiDAR-only Autonomous flight for quadrotor"
-excerpt: "Quadrotor Autonomous Flight using 3D LiDAR <br/><img src='auto_flight_1.png' width=200 height=150> <img src='at_flight_2.png' width=200 height=150> >"
+excerpt: "Quadrotor Autonomous Flight using 3D LiDAR <br/><img src='auto_flight_1.png' width=200 height=150> <img src='at_flight_2.png' width=200 height=200> >"
 collection: portfolio
 ---
 
