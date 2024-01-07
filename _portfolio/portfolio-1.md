@@ -10,4 +10,5 @@ between robots
 using a quadrotor for outdoor mapping and ground robots for exploration of a building.
 
 <img src='/images/500x300.png'>
+
 [Video is available here](https://drive.google.com/file/d/13pq96vJ-9ApS_JO_fIS_C1X7AZ9kL_yV/view?usp=drive_link)
