@@ -1,5 +1,5 @@
 ---
-title: "Quadrotor Autonomy Stack for Crazyfile "
+title: "Autonomy Stack for small-scale quadrotor "
 excerpt: "Control, motion planning, trajectory optimization, localization for quadrotor<img src='meam620-min.png' width=400 height=300>"
 collection: portfolio
 ---
