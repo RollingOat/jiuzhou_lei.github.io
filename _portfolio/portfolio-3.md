@@ -10,3 +10,5 @@ parameter tuning, and executed rigorous flight tests to ensure stable and reliab
 
 [Video is available here](https://drive.google.com/file/d/12nkoN43BdM8XRaXNUpn1VToKISKLs1jP/view?usp=drive_link)
 
+[Contribution to Open-source code, check branch feature/integrate_lidar_no_3d_planner](https://github.com/KumarRobotics/kr_autonomous_flight)
+
