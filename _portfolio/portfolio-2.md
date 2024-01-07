@@ -1,6 +1,6 @@
 ---
-title: "Metric-Semantic Mapping and Diameter Estimation in Forest with Aerial Autonomy<br/><img src='forest_portfolio-min.png'> "
-excerpt: 
+title: "Metric-Semantic Mapping and Diameter Estimation in Forest with Aerial Autonomy"
+excerpt: "<br/><img src='forest_portfolio-min.png'>"
 collection: portfolio
 ---
 
