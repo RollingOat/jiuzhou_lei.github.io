@@ -1,6 +1,6 @@
 ---
 title: "Quadrotor Autonomy Stack for Crazyfile "
-excerpt: "Control, motion planning, trajectory optimization, localization for quadrotor<img src='/images/meam620-min.png' width=400 height=300>"
+excerpt: "Control, motion planning, trajectory optimization, localization for quadrotor<img src='meam620-min.png' width=400 height=300>"
 collection: portfolio
 ---
 - Developed the dynamic model of a quadrotor and implemented a PD controller and an A*-based path planning
