@@ -3,7 +3,7 @@ title: "Quadrotor Autonomy Stack for Crazyfile "
 excerpt: "Control, motion planning, trajectory optimization, localization for quadrotor"
 collection: portfolio
 ---
-<br/><img src='/images/500x300.png'>
+<img src='/images/meam620-min.png' width=400 height=300>
 
 - Developed the dynamic model of a quadrotor and implemented a PD controller and an A*-based path planning
 algorithm in Python to successfully navigate the quadrotor and avoid obstacles in complex indoor environments.
