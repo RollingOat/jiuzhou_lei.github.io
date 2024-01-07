@@ -1,6 +1,6 @@
 ---
 title: "Versatile Real-Time Metric-Semantic SLAM for Multi-Robot Navigation and Exploration"
-excerpt: "Developed a versatile metric-semantic SLAM framework for autonomous UAVs and UGVs."
+excerpt: "Developed a versatile metric-semantic SLAM framework for autonomous UAVs and UGVs.<img src='vems-slam-min.png' width=300 height=600>"
 collection: portfolio
 ---
 - Developed a versatile metric-semantic SLAM framework for autonomous UAVs and UGVs to address challenges in collaborative SLAM for heterogeneous robots with varied perception modalities, large pose graph computational burdens, and semantic environment understanding by using sparse object-level features with semantic information to enhance localization and mapping.
