@@ -4,4 +4,6 @@ excerpt: "Forward kinematics, inverse Kinematics, Potential field planner, RRT p
 collection: portfolio
 ---
 
-[Github Code](https://github.com/RollingOat/control-path-planning-trajectory-optimization-of-a-quadrotor)
+[Github Code](https://github.com/RollingOat/meam520_labs)
+
+[demo video is available here]()
