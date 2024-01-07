@@ -3,7 +3,7 @@ title: "LiDAR-only Autonomous flight for quadrotor"
 excerpt: "Quadrotor Autonomous Flight using 3D LiDAR <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-<br/><img src='/images/forest_portfolio.png'>
+<img src='/images/auto_flight_1.png' width=200 height=150> <img src='/images/at_flight_2.png' width=200 height=150> 
 
 Developed LiDAR-only autonomous flight feature for quadrotor autonomy system, enhancing capabilities beyond
 stereo cameras. Integrated lidar-inertial odometry for operation in diverse lighting conditions, conducted thorough
