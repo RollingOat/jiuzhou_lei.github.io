@@ -9,6 +9,6 @@ between robots
 - Integrated the framework into the autonomy stack of ground robots, and conducted extensive experiments, including
 using a quadrotor for outdoor mapping and ground robots for exploration of a building.
 
-<img src='jiuzhou_lei.github.io/images/vems-slam-min.png' width=300 height=600>
+<img src='vems-slam-min.png' width=300 height=600>
 
 [Video is available here](https://drive.google.com/file/d/13pq96vJ-9ApS_JO_fIS_C1X7AZ9kL_yV/view?usp=drive_link)
