@@ -1,8 +1,7 @@
 ---
 title: "Robot arm Manipulator control"
-excerpt: "Forward kinematics, inverse Kinematics, Potential field planner, RRT planner"
+excerpt: "Forward kinematics, inverse Kinematics, Potential field planner, RRT planner<br/><img src='dynamic_grasp-min.png' width=400 height=300>"
 collection: portfolio
 ---
-<br/><img src='/images/dynamic_grasp-min.png' width=400 height=300>
 
 [Github Code](https://github.com/RollingOat/control-path-planning-trajectory-optimization-of-a-quadrotor)
