@@ -2,7 +2,7 @@
 title: "VEMS-SLAM: Versatile Real-Time Metric-Semantic SLAM for Multi-Robot Navigation and Exploration"
 collection: publications
 permalink: /publication/vems-slam
-excerpt: 'TO BE SUBMITTED TO TRANSACTION ON ROBOTICS, NOT ACCEPTED YET'
+excerpt: 'TO BE SUBMITTED TO TRANSACTION ON ROBOTICS, NOT ACCEPTED YET <img src='/images/title_pic.png'>'
 date: Jan 2024
 venue: Transaction on Robotics
 paperurl: 
