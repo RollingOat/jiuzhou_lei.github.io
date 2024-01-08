@@ -6,12 +6,8 @@ excerpt:
 date: Dec, 2023
 venue: 'Journal: Mechanical System and Signal Processing'
 paperurl: 'http://dx.doi.org/10.2139/ssrn.4518294'
-citation: 'Ankit Prabhu, Xu Liu, Igor Spasojevic, Yuwei Wu, Yifei Shao, Dexter Ong, Jiuzhou Lei, Patrick Corey Green, Pratik Chaudhari, Vijay Kumar,
-UAVs for forestry: Metric-semantic mapping and diameter estimation with autonomous aerial robots,
-Mechanical Systems and Signal Processing, Volume 208, 2024, 111050'
+citation: 'Ankit Prabhu, Xu Liu, Igor Spasojevic, Yuwei Wu, Yifei Shao, Dexter Ong, Jiuzhou Lei, Patrick Corey Green, Pratik Chaudhari, Vijay Kumar, UAVs for forestry: Metric-semantic mapping and diameter estimation with autonomous aerial robots, Mechanical Systems and Signal Processing, Volume 208, 2024, 111050'
 ---
-<img src='forest_portfolio-min.png' width="600" height="300">
-
 **Abstract:** To properly monitor the growth of forests and
 administer effective methods for their cultivation, forestry re-
 searchers require access to quantitative metrics such as diameter
@@ -39,5 +35,7 @@ scale up operations with multiple robots. Our system is able to
 achieve a mean absolute error of 1.45 cm for diameter estimation
 and 13.2 cm for relative position estimation between a pair of
 robots after place recognition and map merging
+
+<img src='forest_portfolio-min.png' width="600" height="300">
 
 [Download paper here](http://dx.doi.org/10.2139/ssrn.4518294)
