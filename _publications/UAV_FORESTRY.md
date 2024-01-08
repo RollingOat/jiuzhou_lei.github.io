@@ -36,6 +36,6 @@ achieve a mean absolute error of 1.45 cm for diameter estimation
 and 13.2 cm for relative position estimation between a pair of
 robots after place recognition and map merging
 
-<img src='forest_portfolio-min.png' width="600" height="300">
+<img src='/images/forest_portfolio-min.png' width=600 height=300>
 
 [Download paper here](http://dx.doi.org/10.2139/ssrn.4518294)
