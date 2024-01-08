@@ -39,3 +39,5 @@ robots after place recognition and map merging
 <img src='/images/forest_portfolio-min.png' width=600 height=300>
 
 [Download paper here](http://dx.doi.org/10.2139/ssrn.4518294)
+
+[Video is available here](https://drive.google.com/file/d/1BzFMDoIDILkZsAfjee1GTnMgdBeD1lxX/view?usp=drive_link)
