@@ -8,7 +8,7 @@ venue: 'Journal: Mechanical System and Signal Processing'
 paperurl: 'http://dx.doi.org/10.2139/ssrn.4518294'
 citation: 'Ankit Prabhu, Xu Liu, Igor Spasojevic, Yuwei Wu, Yifei Shao, Dexter Ong, Jiuzhou Lei, Patrick Corey Green, Pratik Chaudhari, Vijay Kumar,
 UAVs for forestry: Metric-semantic mapping and diameter estimation with autonomous aerial robots,
-Mechanical Systems and Signal Processing, Volume 208, 2024, 111050, https://doi.org/10.1016/j.ymssp.2023.111050.'
+Mechanical Systems and Signal Processing, Volume 208, 2024, 111050'
 ---
 <img src='forest_portfolio-min.png' width="600" height="300">
 
