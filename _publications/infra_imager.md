@@ -6,7 +6,7 @@ excerpt:
 date: June 2020
 venue: 'Research and Exploration in Laboratory'
 paperurl: 
-citation: Du Yi, Xu Zhefan, Lei Jiuzhou, Lin Senbao, Innovative Experimental Teaching on Heat Transfer by Using Infrared Imager, Research and Exploration in Laboratory, 2020, 39(06): 207-210
+citation: "Du Yi, Xu Zhefan, Lei Jiuzhou, Lin Senbao, Innovative Experimental Teaching on Heat Transfer by Using Infrared Imager, Research and Exploration in Laboratory, 2020, 39(06): 207-210"
 ---
 
 <img src='thermal.jpg' width="300" height="300">
