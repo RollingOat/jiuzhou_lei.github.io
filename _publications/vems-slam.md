@@ -8,7 +8,7 @@ venue: Transaction on Robotics
 paperurl: 
 citation: 
 ---
-<img src='vems-slam-min.png' width="300" height="500">
+<img src='vems-slam-min-min-min.png' width="500" height="300">
 
 **Abstract:**In this paper, we propose a generic and versatile
 metric-semantic SLAM (MS-SLAM) framework for autonomous
