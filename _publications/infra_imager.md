@@ -8,4 +8,7 @@ venue: 'Research and Exploration in Laboratory'
 paperurl: 
 citation:
 ---
+
+<img src='thermal.jpg' width="300" height="300">
+
 Established an experiment teaching model for heat conduction and heat radiation using infrared imagers. Designed the experiment to find the relationship between temperature and thermal radiation intensity by collecting thermal images of different materials under different temperatures.
