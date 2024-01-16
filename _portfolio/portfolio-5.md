@@ -6,4 +6,4 @@ collection: portfolio
 
 [Github Code](https://github.com/RollingOat/meam520_labs)
 
-[![demo video is available here]()](https://www.youtube.com/watch?v=ojsl5G4Ak7E)
+[![demo video is available here](thumbnail_manipulator.webp)](https://www.youtube.com/watch?v=ojsl5G4Ak7E)
